@@ -1,0 +1,30 @@
+
+
+/*--------------------------------------------------------------
+# Dashboard
+--------------------------------------------------------------*/
+
+.navbar-nav {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 300px;
+    /* padding-top: 10px; */
+    padding-left: 20px;
+}
+
+.nav-item {
+    height: 30px
+}
+
+.nav-item:hover {
+    border-bottom: 3px solid #f1f1f1;
+}
+
+/*--------------------------------------------------------------
+# Index
+--------------------------------------------------------------*/
+
+.btn_2 {
+    color: white;
+}
